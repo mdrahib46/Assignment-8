@@ -21,11 +21,9 @@ Here are some screenshots showcasing the app's features:
 # ScreenShot - 1
 ![Screenshot_1](https://github.com/mdrahib46/Assignment-8/assets/57681390/eba5f8eb-948e-4d26-8cb6-cda9a9fec08d)
 # ScreenShot - 2
-![Screenshot_2](https://github.com/mdrahib46/Assignment-8/assets/57681390/a15efd45-5e1d-4711-bc99-23d2d69cc546)
+![Screenshot_6](https://github.com/mdrahib46/Assignment-8/assets/57681390/560695bf-6e86-4680-9e5b-f4e88ded446b)
 # ScreenShot - 3
-
 ![Screenshot_3](https://github.com/mdrahib46/Assignment-8/assets/57681390/a04be270-ebe3-4d38-ac8e-8523b7431c90)
-
 
 ![Screenshot_5](https://github.com/mdrahib46/Assignment-8/assets/57681390/d99e7160-fa55-46f6-b34e-9719eaf5e23b)
 
