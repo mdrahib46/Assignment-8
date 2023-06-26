@@ -26,7 +26,7 @@ Here are some screenshots showcasing the app's features:
 ![Screenshot_3](https://github.com/mdrahib46/Assignment-8/assets/57681390/a04be270-ebe3-4d38-ac8e-8523b7431c90)
 
 # ScreenShot - 4
-- After Deleted the value
+- After Deleted home Screen value
 
 ![Screenshot_5](https://github.com/mdrahib46/Assignment-8/assets/57681390/d99e7160-fa55-46f6-b34e-9719eaf5e23b)
 
