@@ -1,5 +1,5 @@
 
-# Task List App
+# Task Management App.
 
 The Task List App is a feature-rich Flutter application that helps users manage their tasks effectively.
 
@@ -23,8 +23,11 @@ Here are some screenshots showcasing the app's features:
 # ScreenShot - 2
 ![Screenshot_2](https://github.com/mdrahib46/Assignment-8/assets/57681390/a15efd45-5e1d-4711-bc99-23d2d69cc546)
 # ScreenShot - 3
-![Screenshot_3](https://github.com/mdrahib46/Assignment-8/assets/57681390/c6ff917b-e493-4ee5-be3a-7865647fc7f0)
 
+![Screenshot_3](https://github.com/mdrahib46/Assignment-8/assets/57681390/a04be270-ebe3-4d38-ac8e-8523b7431c90)
+
+
+![Screenshot_5](https://github.com/mdrahib46/Assignment-8/assets/57681390/d99e7160-fa55-46f6-b34e-9719eaf5e23b)
 
 
 ## Getting Started
